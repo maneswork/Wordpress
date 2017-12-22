@@ -1,0 +1,1 @@
+remove_theme_support( 'genesis-footer-widgets' );
